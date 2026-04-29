@@ -1,0 +1,3 @@
+Hola Node.js!
+prueba directa de fs con append!
+otra prueba
