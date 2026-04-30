@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Luciano Nicolas Pesqueira",
+  "license": "ISC",
+  "type": "commonjs"
+}
