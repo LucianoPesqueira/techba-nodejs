@@ -1,0 +1,14 @@
+Cliente -> Request(peticion) -> Servidor -> Response(respuesta)
+
+//se usa thunder client en vs code
+
+metodo put -> pisa todo el registro modificado por el usuario
+metodo patch -> cambia solo la parte modificada por el usuario
+en la practica PATCH es mas comun para updates parciales porqeu es mas seguro y eficiente
+
+API REST
+cada peticion es independiente, no recuerda la anterior
+se necesita un Tokens JWT(Json Web Tokens)
+
+API (Application Programming Interface):
+es un contrato entre dos programas: uno pide los datos, el otro los entrega.
